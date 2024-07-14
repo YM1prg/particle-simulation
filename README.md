@@ -1,2 +1,2 @@
 # particle-simulation
-particle simulation project is using c to make a particle simulator
+particle simulation is project for simulating particles in different ways using C lang.
